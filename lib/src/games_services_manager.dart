@@ -1,8 +1,8 @@
 // ignore_for_file: non_constant_identifier_names
 
-import 'package:common_utils/l.dart';
 import 'package:games_services/games_services.dart';
-import 'package:common_utils/common_utils.dart';
+import 'package:q_common_utils/common_utils.dart';
+import 'package:q_common_utils/l.dart';
 
 class GameServiceManager {
   static Future<bool> signIn() async {

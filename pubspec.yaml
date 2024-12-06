@@ -8,8 +8,8 @@ environment:
 
 dependencies:
   games_services: any
-  common_utils: 
-    path: ../common_utils
+  q_common_utils:
+    path: ../q_common_utils
   q_theme: 
     path: ../q_theme
   flutter:
